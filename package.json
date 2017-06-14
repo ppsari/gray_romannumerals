@@ -1,0 +1,29 @@
+{
+  "name": "gray_romannumerals",
+  "version": "1.0.0",
+  "description": "convert string to romannumeral",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppsari/gray_romannumerals.git"
+  },
+  "keywords": [
+    "romannumeral"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "author": "ppsari <poppymighty@gmail.com> (https://github.com/ppsari/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppsari/gray_romannumerals/issues"
+  },
+  "homepage": "https://github.com/ppsari/gray_romannumerals#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
